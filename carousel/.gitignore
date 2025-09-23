@@ -1,5 +1,5 @@
 *.log
 *.exe
 compile.class
-conexionbd.java
+conexiondb.java
 /node_modules
